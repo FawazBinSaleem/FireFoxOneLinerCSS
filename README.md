@@ -9,17 +9,17 @@ HOW TO INSTALL:
     Download and unzip (from Repo or from Releases)
     Go to about:profiles in Firefox and open your Profile Folder by selecting root directory
     Drop the user.js in the root folder
-    Drop your unzipped "chrome" folder into the folder that appears
+    Drop your unzipped "chrome" folder in the root folder
     Go to about:config in your Firefox and set the value of toolkit.legacyUserProfileCustomizations.stylesheets to true (this enables the loading of userChrome mods)
     Restart Firefox
 
 
 GALLERY:
 
+(70)](https://github.com/user-attachments/assets/1021d892-de70-4bb2-a5cc-05165e1780a0)
 ![Screenshot (72)](https://github.com/user-attachments/assets/426efc6c-dacf-4da2-90f4-7fd49f8f189f)
 ![Screenshot (71)](https://github.com/user-attachments/assets/18aaa548-9cc6-4d45-9688-13a0e8a70269)
-![Screenshot (70)](https://github.com/user-attachments/assets/1021d892-de70-4bb2-a5cc-05165e1780a0)
-
+![Screenshot 
 
 
 CREDITS:
