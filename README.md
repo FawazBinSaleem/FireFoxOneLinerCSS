@@ -16,10 +16,11 @@ HOW TO INSTALL:
 
 GALLERY:
 
+![Screenshot
 (70)](https://github.com/user-attachments/assets/1021d892-de70-4bb2-a5cc-05165e1780a0)
 ![Screenshot (72)](https://github.com/user-attachments/assets/426efc6c-dacf-4da2-90f4-7fd49f8f189f)
 ![Screenshot (71)](https://github.com/user-attachments/assets/18aaa548-9cc6-4d45-9688-13a0e8a70269)
-![Screenshot 
+
 
 
 CREDITS:
