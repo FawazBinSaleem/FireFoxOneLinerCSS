@@ -24,4 +24,5 @@ GALLERY:
 
 CREDITS:
 userChrome.css: https://github.com/Bali10050/FirefoxCSS
+
 user.js: https://github.com/yokoffing/Betterfox
