@@ -14,10 +14,13 @@ HOW TO INSTALL:
     Restart Firefox
     
 Additional Tips:
-    ``` Hamburger icon > More Tools > Customize Toolbar -> Disable Title Bar (Mac and Linux Users)
-        Hamburger icon > More Tools > Customize Toolbar -> Switch to Compact for Toolbar (Multiplatform)
-    ```
 
+    ``` 
+    Hamburger icon > More Tools > Customize Toolbar -> Disable Title Bar (Mac and Linux Users)
+    Hamburger icon > More Tools > Customize Toolbar -> Switch to Compact for Toolbar (Multiplatform)
+    
+    ```
+    
 GALLERY:
 
 ![Screenshot
