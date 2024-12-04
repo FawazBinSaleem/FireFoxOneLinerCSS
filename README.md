@@ -15,11 +15,9 @@ HOW TO INSTALL:
     
 Additional Tips:
 
-    ``` 
     Hamburger icon > More Tools > Customize Toolbar -> Disable Title Bar (Mac and Linux Users)
     Hamburger icon > More Tools > Customize Toolbar -> Switch to Compact for Toolbar (Multiplatform)
     
-    ```
     
 GALLERY:
 
