@@ -12,7 +12,11 @@ HOW TO INSTALL:
     Drop your unzipped "chrome" folder in the root folder
     Go to about:config in your Firefox and set the value of toolkit.legacyUserProfileCustomizations.stylesheets to true (this enables the loading of userChrome mods)
     Restart Firefox
-
+    
+Additional Tips:
+    ``` Hamburger icon > More Tools > Customize Toolbar -> Disable Title Bar (Mac and Linux Users)
+        Hamburger icon > More Tools > Customize Toolbar -> Switch to Compact for Toolbar (Multiplatform)
+    ```
 
 GALLERY:
 
