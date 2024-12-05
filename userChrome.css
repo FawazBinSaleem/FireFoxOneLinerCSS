@@ -172,3 +172,6 @@
     cursor: pointer;
     display: -moz-box !important;
 }
+/* Remove duplicated window control buttons*/ 
+#nav-bar .titlebar-buttonbox{display: none !important
+}
